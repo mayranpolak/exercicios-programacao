@@ -28,3 +28,5 @@ fimpara
 
 Fimalgoritmo
 ```
+
+2. Calcular e mostrar a média aritmética dos números pares compreendidos entre 13 e 73.
