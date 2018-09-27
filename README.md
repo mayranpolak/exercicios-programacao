@@ -30,3 +30,19 @@ Fimalgoritmo
 ```
 
 2. Calcular e mostrar a média aritmética dos números pares compreendidos entre 13 e 73.
+```
+Algoritmo "questao2"
+Var
+i, soma, cont: inteiro
+media: real
+Inicio
+para i de 13 ate 73 faca
+     se i mod 2 = 0 entao
+        soma:= soma+i
+        cont:= cont+1
+     fimse
+fimpara
+media:= soma/cont
+escreva("A média é: ", media)
+Fimalgoritmo
+```
