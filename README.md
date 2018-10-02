@@ -46,3 +46,5 @@ media:= soma/cont
 escreva("A média é: ", media)
 Fimalgoritmo
 ```
+
+3. Ler três valores e determinar o maior dentre eles.
