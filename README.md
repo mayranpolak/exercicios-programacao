@@ -48,3 +48,24 @@ Fimalgoritmo
 ```
 
 3. Ler três valores e determinar o maior dentre eles.
+```
+Algoritmo "questao3"
+Var
+a, b, c, maior: inteiro
+Inicio
+escreva("Digite o primeiro valor: ")
+leia(a)
+escreva("Digite o segundo valor: ")
+leia(b)
+escreva("Digite o terceiro valor: ")
+leia(c)
+maior:= a
+se b > maior entao
+   maior:= b
+fimse
+se c > maior entao
+   maior:= c
+fimse
+escreva("O maior valor digitado é:", maior)
+Fimalgoritmo
+```
