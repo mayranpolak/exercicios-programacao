@@ -69,3 +69,5 @@ fimse
 escreva("O maior valor digitado é:", maior)
 Fimalgoritmo
 ```
+
+4. Dada uma sequência de 5 números inteiros, imprima na ordem inversa à de leitura.
